@@ -83,7 +83,7 @@ public OnPlayerCommandText(playerid, cmdtext[])
 }
 ```
 
-## En-taturial
+## IR-taturial
 
 # سیستم بن به همراه فایل های pawn & sql
 
