@@ -103,7 +103,7 @@ public OnPlayerCommandText(playerid, cmdtext[])
 ## توضیحات دقیق اسکریپت
 ### ban_system.pwn
 
-
+```pawn
 #include <a_samp>
 #include <a_mysql>
 
@@ -166,3 +166,4 @@ public OnPlayerCommandText(playerid, cmdtext[])
     }
     return 0;
 }
+```
